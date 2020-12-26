@@ -1,0 +1,44 @@
+input{
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    outline: none;
+}
+.value{
+    
+    display: inline;
+}
+.row{
+    margin-top: 20px;
+}
+.submit{
+    margin-left: 5px;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    outline: none;
+    width:100px;
+    cursor: pointer;
+}
+.remove{
+    margin-left: 5px;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    outline: none;
+    width:100px;
+    cursor: pointer;
+}
+
+.removeAll{
+    margin-left: 5px;
+    background-color: orangered;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    outline: none;
+    width:100px;
+    cursor: pointer;
+}
